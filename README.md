@@ -63,5 +63,13 @@ A főablak lehetőséget biztosít fájlok megnyitására, listázására és az
    - 6 másodpercenként újra betölti a fájl tartalmát.  
 
 6. **detailsPanel_Paint(object sender, PaintEventArgs e)**  
-   - Vizualizálja az időzítő állapotát egy barna téglalap formájában.  
+   - Vizualizálja az időzítő állapotát egy barna téglalap formájában.
+
+
+## Rendszerkövetelmények  
+
+- **Operációs rendszer:** Windows  
+- **.NET Framework 4.7.2 vagy újabb**  
+- **Programozási nyelv:** C#  
+
 
